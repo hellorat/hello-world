@@ -1,5 +1,8 @@
+//title
 # hello-world
-# my first code！
+my first code！
+
+//code 
 #include<stdio.h>
 void main()
 {
